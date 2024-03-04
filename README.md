@@ -71,6 +71,7 @@ print(result1)
 
 ## Output :
 ![output](1.png)
+
 ![output](2.png)
 
 ## Result :
